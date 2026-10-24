@@ -115,8 +115,6 @@ This project is intended for educational and machine learning demonstration purp
 
 Aspiring Data Analyst | Machine Learning Enthusiast
 
-GitHub: [YOUR-GITHUB-PROFILE](https://github.com/YOUR-USERNAME)
 
----
 
-⭐ If you find this project interesting, feel free to star the repository!
+
